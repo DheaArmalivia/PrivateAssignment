@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        changePage(R.id.nav_camera);
-        navigationView.setCheckedItem(R.id.nav_camera);
+        changePage(R.id.nav_home);
+        navigationView.setCheckedItem(R.id.nav_home);
 
     }
 
@@ -94,9 +94,13 @@ public class MainActivity extends AppCompatActivity
     private void changePage(int id) {
         Fragment fragment = null;
 
-        if (id == R.id.nav_camera) {
+        if (id == R.id.nav_home) {
             fragment = new HomeFragment();
             setTitle("Home");
+        }
+        if (id == R.id.nav_about) {
+            fragment = new AboutDeveloper();
+            setTitle("About Developer");
         }
 
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commitNow();
