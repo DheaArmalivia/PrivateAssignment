@@ -1,6 +1,7 @@
 # PrivateAssignment
 
 #### Link File APK release dari Aplikasi : https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0B7wLEbOCYIMza1hCc0ZOQ2ZyRHc/view?usp=sharing
+#### Link File APK release dari Aplikasi V2 : https://drive.google.com/file/d/0B7wLEbOCYIMza1hCc0ZOQ2ZyRHc/view?usp=sharing
 
 <h1> Identitas </h1>
 Nama lengkap : Dhea Armalivia Airizah <br>
@@ -18,7 +19,7 @@ https://developer.nytimes.com/
 Navigation Drawer
 <br>
 
-# Library dari Local Database yang digunakan pada Aplikasi (sebutkan SQLite dasar jika tidak menggunakan library)
+# Library dari Local Database yang digunakan pada Aplikasi (sebutkan SQLite dasar jika tidak menggunakan library) : Library Volley and Glide dan menggunakan local database SQLite dasar
 
 <h1> Deskripsi </h1>
 <p> PrivateAssignment adalah aplikasi yang dibuat untuk memenuhi tugas pribadi mata pelajaran pemrograman perangkat bergerak (android).
