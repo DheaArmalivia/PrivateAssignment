@@ -3,6 +3,8 @@
 #### Link File APK release dari Aplikasi : https://drive.google.com/a/smktelkom-mlg.sch.id/file/d/0B7wLEbOCYIMza1hCc0ZOQ2ZyRHc/view?usp=sharing
 #### Link File APK release dari Aplikasi V2 : https://drive.google.com/file/d/0B7wLEbOCYIMza1hCc0ZOQ2ZyRHc/view?usp=sharing
 
+#### UPDATE!(11 Desember 2017) Link File APK release : https://drive.google.com/open?id=1Qtm34QVhwyPR2zpcPu-T5-5B-rOl4n8N
+
 <h1> Identitas </h1>
 Nama lengkap : Dhea Armalivia Airizah <br>
 Kelas / No urut : XIRPL6 / 09 <br>
@@ -13,6 +15,7 @@ SMK Telkom Malang<br>
 
 <h1> Alamat API </h1>
 https://developer.nytimes.com/
+https://api.nytimes.com/svc/movies/v2/reviews/search.json?api-key=a034fc8d8a2740d8ab00faab02201518
 <br>
 
 <h1> Jenis Navigasi </h1>
